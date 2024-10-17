@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sam</h1>
-<h3 align="center">A Information Technology student major in Web and Mobile Application Development</h3>
+<h3 align="center">Currently a Software Engineer at OneTool Solution Inc.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samjherwintagufa&label=Profile%20views&color=0e75b6&style=flat" alt="samjherwintagufa" /> </p>
 
